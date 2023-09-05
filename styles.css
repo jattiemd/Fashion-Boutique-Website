@@ -1,0 +1,36 @@
+.mySpaces {
+    letter-spacing: 4px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 30px;
+}
+
+.formFont {
+    letter-spacing: 4px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+
+.navFont {
+    letter-spacing: 4px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 18px;
+}
+
+.pFont {
+    letter-spacing: 2px;
+    font-weight: 500;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 12px;
+}
+
+.linkFont {
+    font-weight:600; 
+    letter-spacing: 2px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 16px;
+}
