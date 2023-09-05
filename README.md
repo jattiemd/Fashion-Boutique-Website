@@ -15,6 +15,8 @@ A minimalistic mock website from inception till completion for SMME fashion Bout
   - XAMPP is needed to run
   - Save file to C:\xampp\htdocs
   - the Admin user already exists as seen in the "customer" table in the database. Login credentials are as follows
+      - username: admin@gmail.com
+      - password: P@ssword1
 
 * Import database tables:
   - Run XAMPP Control Panel as Admin
