@@ -29,7 +29,7 @@ A minimalistic mock website from inception till completion for SMME fashion Bout
 
 * Run Website:
   - Open web browser
-  - In the URL type: http://localhost/Fashion Boutique Website
-  - The website should open automatically if not retype -> http://localhost/Fashion%20Boutique%20Website/
+  - In the URL type: "http://localhost/Fashion Boutique Website"
+  - The website should open automatically if not retype -> "http://localhost/Fashion%20Boutique%20Website/"
   - Run complete
  
