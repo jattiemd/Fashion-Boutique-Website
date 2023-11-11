@@ -315,7 +315,7 @@ if (isset($_POST['process_order'])) {
         mysqli_execute_query($conn, $clear_cart_query);
 
         //Return to home page
-        echo "<script> window.open('home.php', '_self') </script>";
+        echo "<script> window.open('index.php', '_self') </script>";
     } 
     else {
         echo "<script> alert('Error! Cannot process order.') </script>";

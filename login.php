@@ -26,7 +26,7 @@
         <!--Logo-->
         <div class="row justify-content-center">
             <div class="col-12">
-                <a  href="home.php">
+                <a  href="index.php">
                     <img class="img-responsive w-25" src="images/cropped-AELAHN-COLLECTIVE-LOGO-.jpg" alt="logo">
                 </a>
                 <hr>
@@ -112,7 +112,7 @@ if (isset($_POST['login'])){
                 }
                 else {
                     $_SESSION['username'] = $row['email'];
-                    header("Location: home.php");
+                    header("Location: index.php");
                 }
             }
         }

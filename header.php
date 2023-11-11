@@ -31,7 +31,7 @@
             <div class="container">
 
                 <!--Logo-->
-                <a class="navbar-brand" href="home.php">
+                <a class="navbar-brand" href="index.php">
                     <img src="images/cropped-AELAHN-COLLECTIVE-LOGO-.jpg" alt="Logo" width="250" height="140">
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
@@ -42,7 +42,7 @@
                 <div class="collapse navbar-collapse" id="navbar">
                     <ul class="navbar-nav ms-auto nav-underline">
                         <li class="nav-item">
-                            <a class="nav-link navFont" aria-current="page" href="home.php">Home</a>
+                            <a class="nav-link navFont" aria-current="page" href="index.php">Home</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link navFont" aria-current="page" href="products.php">Products</a>

@@ -18,7 +18,7 @@
         <!--Logo-->
         <div class="row justify-content-center">
             <div class="col-12">
-                <img href="home.php" class="img-responsive w-25" src="images/cropped-AELAHN-COLLECTIVE-LOGO-.jpg" alt="logo">
+                <img href="index.php" class="img-responsive w-25" src="images/cropped-AELAHN-COLLECTIVE-LOGO-.jpg" alt="logo">
                 <hr>
             </div>
         </div>
